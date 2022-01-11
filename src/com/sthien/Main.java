@@ -10,7 +10,6 @@ public class Main {
         Thread thread1 = new Thread(customer1);
         Thread thread2 = new Thread(customer2);
         Thread thread3 = new Thread(customer3);
-        int a = 4;
         thread1.start();
         thread2.start();
         thread3.start();
