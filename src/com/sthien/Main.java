@@ -15,5 +15,6 @@ public class Main {
         thread3.start();
         account.withdraw("Thien", 50);
         System.out.println("i dont know java");
+        System.out.println("hello thạudhá");
     }
 }
